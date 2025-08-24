@@ -12,8 +12,8 @@ Made by Polar.
 ## Setup
 
 1. Clone this repository:
-   git clone https://github.com/lmaopolar/discord-template-cloner.git
-   cd discord-template-cloner
+   git clone https://github.com/lmaopolar/discord-server-cloner.git
+   cd discord-server-cloner
 
 2. Install requirements:
    pip install -r requirements.txt
