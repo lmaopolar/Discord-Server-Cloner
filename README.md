@@ -12,7 +12,7 @@ Made by Polar.
 ## Setup
 
 1. Clone this repository:
-   git clone https://github.com/your-username/discord-template-cloner.git
+   git clone https://github.com/lmaopolar/discord-template-cloner.git
    cd discord-template-cloner
 
 2. Install requirements:
